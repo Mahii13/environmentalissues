@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+body{
+    background: url("https://i1.faceprep.in/prograd-junior/climate-change-bg.png");
+    font-family: 'Work Sans', sans-serif;
+     background-size: 100% 100% ;
+     text-align:center ;
+     font-size: medium;
+     border: transparent;
+}
+h1{
+    color: white;
+    font-size: 400%;
+}
+.container{
+    width:100vw;
+    height:100vh;
+    color: white;
+    margin-top: 200px;
+    font-size:20px;
+
+}
+h2{
+    font-size: 300%;
+}
+h3{
+    font-size: 200% ;
+}
+hr{
+    width: 10%;
+}
+.change{
+    padding:20px 40px ;
+    border-radius: 30% 30%;
+    margin: 50px 50px;
+    color: white;
+    font-size: 20px;
+    font-family: 'comic sans ms';
+}
+#save{
+    font-family: cursive;
+}
+#frame{
+    border: transparent;
+    font-size: medium;
+}
